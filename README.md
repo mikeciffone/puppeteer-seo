@@ -1,8 +1,8 @@
 # Puppeteer SEO
 
-An ongoing collection of Puppeteer functions to quickly and easily scrape pages for relevant SEO data.
+An ongoing collection of Puppeteer functions that can be run from a terminal/shell to quickly and easily scrape pages for relevant SEO data.
 
-<img src="/img/puppeteer-seo.webp" width="500" height="auto">
+!(/img/puppeteer-seo.webp)
 
 ## How it works
 
