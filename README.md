@@ -1,8 +1,8 @@
+![](/img/puppeteer-seo.webp)
+
 # Puppeteer SEO
 
 An ongoing collection of Puppeteer functions that can be run from a terminal/shell to quickly and easily scrape pages for relevant SEO data.
-
-![](/img/puppeteer-seo.webp)
 
 ## How it works
 
